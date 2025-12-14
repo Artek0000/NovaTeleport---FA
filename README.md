@@ -8,5 +8,5 @@ Copyright © 2025 Artek0000
 
 # Information ⚠️
 - Lors de la supression d'un point il est nécessaire de vous déconnecter puis de vous reconnecter afin d'actualiser son affichage, bien sûr le point n'est tout de même plus fonctionnel après supression.
+<img width="2880" height="1620" alt="Group 29 (3)" src="https://github.com/user-attachments/assets/acba17c1-08de-4062-bde9-6443e6510111" />
 
-(https://raw.githubusercontent.com/Artek0000/NovaTeleport/refs/heads/main/PluginIcon)
