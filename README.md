@@ -14,7 +14,6 @@ Tous droits réservés – Appropriation et modification interdites
 - [Informations importantes](#informations-importantes-⚠️)
 - [Installation](#installation-🛠️)
 - [Commandes principales](#commandes-principales-📜)
-- [Aperçu](#aperçu-🖼️)
 - [Support](#support-💬)
 
 ---
