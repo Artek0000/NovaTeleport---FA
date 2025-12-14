@@ -1,5 +1,7 @@
 # NovaTeleport V1.0.0
 Copyright © 2025 Artek0000
+Appropriation interdite
+Modification interdite
 
 # Fonctionnalités 🆕
 - Commande /tpoint accessibles aux admins en service.
