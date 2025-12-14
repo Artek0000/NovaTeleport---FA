@@ -1,6 +1,7 @@
 # NovaTeleport V1.0.0
 
-![NovaTeleport](https://github.com/user-attachments/assets/acba17c1-08de-4062-bde9-6443e6510111)
+![NovaTeleport](<img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/4367194d-8daf-414b-adb0-5de0b63e3365" />
+)
 
 **Copyright © 2025 Artek0000**  
 Tous droits réservés – Appropriation et modification interdites
@@ -55,12 +56,6 @@ Il permet aux administrateurs de créer, supprimer et gérer des points de tél�
 | Commande         | Description                                    | Permissions          |
 |-----------------|-----------------------------------------------|-------------------|
 | `/tpoint`   | Crée un nouveau point de téléportation       | Admin en service    |
-
----
-
-## Aperçu 🖼️
-
-![Interface NovaTeleport](https://github.com/user-attachments/assets/acba17c1-08de-4062-bde9-6443e6510111)
 
 ---
 
