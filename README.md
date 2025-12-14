@@ -1,14 +1,70 @@
 # NovaTeleport V1.0.0
-Copyright © 2025 Artek0000
-Appropriation interdite
-Modification interdite
 
-# Fonctionnalités 🆕
-- Commande /tpoint accessibles aux admins en service.
-- Création/Supression de points.
-- Téléportation des joueurs simple et ergonomique.
+![NovaTeleport](https://github.com/user-attachments/assets/acba17c1-08de-4062-bde9-6443e6510111)
 
-# Information ⚠️
-- Lors de la supression d'un point il est nécessaire de vous déconnecter puis de vous reconnecter afin d'actualiser son affichage, bien sûr le point n'est tout de même plus fonctionnel après supression.
-<img width="2880" height="1620" alt="Group 29 (3)" src="https://github.com/user-attachments/assets/acba17c1-08de-4062-bde9-6443e6510111" />
+**Copyright © 2025 Artek0000**  
+Tous droits réservés – Appropriation et modification interdites
 
+---
+
+## 📖 Table des matières
+
+- [Description](#description)
+- [Fonctionnalités](#fonctionnalités-🆕)
+- [Informations importantes](#informations-importantes-⚠️)
+- [Installation](#installation-🛠️)
+- [Commandes principales](#commandes-principales-📜)
+- [Aperçu](#aperçu-🖼️)
+- [Support](#support-💬)
+
+---
+
+## Description
+
+**NovaTeleport** est un plugin de téléportation conçu pour améliorer la gestion des déplacements sur votre serveur.  
+Il permet aux administrateurs de créer, supprimer et gérer des points de téléportation de manière simple et intuitive.
+
+---
+
+## Fonctionnalités 🆕
+
+- **Commande `/tpoint`** : accessible uniquement aux administrateurs en service.  
+- **Création et suppression de points** : ajoutez ou retirez facilement des points de téléportation.  
+- **Téléportation ergonomique** : téléportez les joueurs rapidement et simplement.  
+
+---
+
+## Informations importantes ⚠️
+
+- Après la **suppression d’un point**, il est nécessaire de **se déconnecter puis se reconnecter** pour actualiser son affichage.  
+- Le point supprimé **n’est plus fonctionnel**, même s’il apparaît sur le terrain.
+
+---
+
+## Installation 🛠️
+
+1. Téléchargez le plugin `NovaTeleport`.  
+2. Placez-le dans le dossier `Servers\<Nom de votre serveur>\Plugins` de votre serveur.  
+3. Redémarrez le serveur pour activer le plugin.  
+4. Connectez-vous en tant qu’administrateur pour utiliser les commandes `/tpoint`.
+
+---
+
+## Commandes principales 📜
+
+| Commande         | Description                                    | Permissions          |
+|-----------------|-----------------------------------------------|-------------------|
+| `/tpoint`   | Crée un nouveau point de téléportation       | Admin en service    |
+
+---
+
+## Aperçu 🖼️
+
+![Interface NovaTeleport](https://github.com/user-attachments/assets/acba17c1-08de-4062-bde9-6443e6510111)
+
+---
+
+## Support 💬
+
+Pour toute question ou problème lié à **NovaTeleport**, merci de contacter **real_artek** directement sur Discord.  
+Toutes modifications ou redistributions non autorisées sont strictement interdites.
