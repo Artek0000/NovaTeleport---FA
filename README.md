@@ -9,4 +9,4 @@ Copyright © 2025 Artek0000
 # Information ⚠️
 - Lors de la supression d'un point il est nécessaire de vous déconnecter puis de vous reconnecter afin d'actualiser son affichage, bien sûr le point n'est tout de même plus fonctionnel après supression.
 
-![Icône du Plugin](https://raw.githubusercontent.com/Artek0000/NovaTeleport/refs/heads/main/PluginIcon)
+(https://raw.githubusercontent.com/Artek0000/NovaTeleport/refs/heads/main/PluginIcon)
